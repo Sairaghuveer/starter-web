@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 Its nice to have you all here
-
+Another rebase exmaple
 
 ## Purpose
 
