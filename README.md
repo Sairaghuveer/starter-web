@@ -10,3 +10,6 @@ Sample website with plenty of files for demos
 
 Adding copyright is essential
 2021C raghuveer Uber
+
+## How to contribute
+Please fork this repository and issue pull requests for review
